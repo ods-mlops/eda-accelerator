@@ -16,3 +16,7 @@ df.shape
 # COMMAND ----------
 
 df.info()
+
+# COMMAND ----------
+
+df.corr()
